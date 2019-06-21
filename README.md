@@ -17,3 +17,4 @@ More links:
 
 - [Hybrid Logical Clocks](http://sergeiturukin.com/2017/06/26/hybrid-logical-clocks.html)
 - [CockroachDB Architecture](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
+- [Living without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
