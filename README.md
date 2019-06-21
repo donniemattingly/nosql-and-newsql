@@ -1,4 +1,6 @@
 # What's Old is New Again
+[Deck](/deck.pdf)
+
 ## NoSQL and NewSQL
 
 If you do nothing else, watch [this presentation](https://www.youtube.com/watch?v=hwnNbLXN4vA)
